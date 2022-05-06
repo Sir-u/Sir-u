@@ -17,7 +17,7 @@ Thank you for coming to my GitHub!!
 
 # 🎲 Etc.
 
-email:  [✉️](ehdgur9553@naver.com) 📧e-mail
+📧 e-mail: ehdgur9553@naver.com
 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sir-u&show_icons=true&theme=tokyonight)
