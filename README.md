@@ -20,8 +20,8 @@ Thank you for coming to my GitHub!!
 📧 e-mail: ehdgur9553@naver.com
 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sir-u&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sir-u&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sir-u&layout=Demo)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sir-u&layout=Demo)](https://github.com/anuraghazra/github-readme-stats)
 
